@@ -1,6 +1,6 @@
 const { DisTube } = require('distube')
 const Discord = require('discord.js')
-const djstream = require('discord.js-commandv14')
+const djstream = require('discord.js-commandsv14')
 const client = new Discord.Client({
   intents: [
     Discord.GatewayIntentBits.Guilds,
