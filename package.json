@@ -4,6 +4,7 @@
   "description": "a discord music bot developed in discord.js supporting multiple music streaming API's including YouTube and soundcloud",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
